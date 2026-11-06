@@ -6,7 +6,7 @@
   background-repeat: no-repeat; background-position: center; background-size: cover;
 }
 .hero-title {
-  max-width: 288px; margin: 0 auto 72px;
+  max-width: 216px; margin: 0 auto 72px;
   font-weight: 700; font-size: 36px; line-height: 1.11; letter-spacing: 0.02em; color: #fff;
 }
 .hero-button {
