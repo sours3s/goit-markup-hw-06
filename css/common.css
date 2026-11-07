@@ -6,15 +6,15 @@ a { text-decoration: none; color: currentColor; }
 button { font-family: inherit; cursor: pointer; }
 
 .container {
-  width: 320px;
+  max-width: 320px;
   margin: 0 auto;
   padding: 0 16px;
 }
 @media (min-width: 768px) {
-  .container { width: 768px; }
+  .container { max-width: 768px; }
 }
 @media (min-width: 1158px) {
-  .container { width: 1158px; padding: 0 15px; }
+  .container { max-width: 1158px; padding: 0 15px; }
 }
 
 .section {
